@@ -6,18 +6,18 @@ This is a community event where FreeBSD commiters help people to understand what
 
 The Basic idea
 ------------------
-The Ports System used in FreeBSD is dead simple, and it should be easy for any open source software publisher to submit their code to FreeBSD. But they just don't know how simple it is, so we are gonna show 'em.
+The Ports System used in FreeBSD is dead simple. It should be easy for any open source software publisher to submit their code to FreeBSD. But they just don't know how simple it is, so we are gonna show 'em.
 
 The Camp
 -------------------
 
 #### Timing
 
-The event can be prepared to last from a couple hours to a whole day.
+The event can be prepared to last from a couple hours to a whole day. It's all a question of participants and organizers convenience. But less than one hour could be too short.
 
 #### Location
 
-Best is to find a venue with good internet connectivity and a local network where we can put a test server.
+Best is to find a venue with good internet connectivity and a local network where we can put a test server. You need chairs and table, because people typically bring their own laptops.
 
 #### Organizers
 
@@ -39,7 +39,7 @@ The user accounts also can be created on the fly without much trouble at the beg
 
 #### Schedule
 
-There should be at the beginning some introduction talk about what are ports and how to prepare them, how to make a shar and how to submit them, then how to update a port with a diff file. Then a list of possible candidates for porting could be presented to the audience, sorted by categories and difficulties level.
+There should be at the beginning some introduction talk about what are ports and how to prepare them, how to make a shar and how to submit them, then how to update a port with a diff file. Then a list of possible candidates for porting could be presented to the audience, sorted by categories and difficulties level. This introduction is at the discretion of the presenter.
 
 Then everybody can try to create or update ports of their choice, all together in a close proximity with other people following the same path and not far from people that know the path very well.
 
