@@ -21,15 +21,15 @@ Best is to find a venue with good internet connectivity and a local network wher
 
 #### Organizers
 
-It's optimal if some FreeBSD committers can be involved in the Camp, so they can explain the process of submission, detail the reviewing, show how they test, up to the point they commit your submission into the ports tree.
+It's optimal if some FreeBSD commiters can be involved in the Camp, so they can explain the process of submission, detail the reviewing, show how they test, up to the point they commit your submission into the ports tree.
 
 #### Local poudriere
 
-For practice purpose it will be convenient to prepare a computer in advance, installed with a functionnal and recent FreeBSD, with pourdiere already installed and configured, and images already downloaded.
+For practice purpose it will be convenient to prepare a computer in advance, installed with a functional and recent FreeBSD, with poudriere already installed and configured, and images already downloaded.
 
-Optimaly the participants should be able to ssh to the Test Server (running poudriere) and either test their builds locally if they are very simple, or launch the tests in poudriere.
+Optimally the participants should be able to ssh to the Test Server (running poudriere) and either test their builds locally if they are very simple, or launch the tests in poudriere.
 
-The point is that the particiants don't need to install anything, they will have access to a FreeBSD environment using ssh on the local network.
+The point is that the participants don't need to install anything, they will have access to a FreeBSD environment using ssh on the local network.
 
 #### User accounts
 
@@ -43,9 +43,10 @@ There should be at the beginning some introduction talk about what are ports and
 
 Then everybody can try to create or update ports of their choice, all together in a close proximity with other people following the same path and not far from people that know the path very well.
 
-When a port is ready, tested and uploaded, a committer can then show how the submission process is followed up and what leads to the port being committed in the ports tree.
+When a port is ready, tested and uploaded, a commiter can then show how the submission process is followed up and what leads to the port being committed in the ports tree.
 
 Conclusion
 -------------
 
 A portscamp should be a great occasion to have great fun, learning useful stuff and meeting other people from various horizons.
+
