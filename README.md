@@ -45,7 +45,7 @@ The user accounts also can be created on the fly without much trouble at the beg
 
 There should be at the beginning some introduction talk about what are ports and how to prepare them, how to make a shar and how to submit them, then how to update a port with a diff file. Then a list of possible candidates for porting could be presented to the audience, sorted by categories and difficulties level. This introduction is at the discretion of the presenter.
 
-It can be good to have also quick presentation of [bugzilla][bugzilla], [freshports][freshports], [portscout][portscout], [phabicator][phabricator], the [porter's handbook][porterhandbook], and other useful material.
+It can be good to have also quick presentation of [bugzilla][bugzilla], [freshports][freshports], [portscout][portscout], [phabricator][phabricator], the [porter's handbook][porterhandbook], and other useful material.
 
 Then everybody can try to create or update ports of their choice, all together in a close proximity with other people following the same path and not far from people that know the path very well.
 
