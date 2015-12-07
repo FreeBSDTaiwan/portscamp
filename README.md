@@ -2,7 +2,7 @@
 PortsCamp
 ==============
 
-This is a community event where FreeBSD commiters help people to understand what are ports and how to package new software to submit it as a new port.
+This is a community event where [FreeBSD][freebsd] commiters help people to understand what are ports and how to package new software to submit it as a new port.
 
 The Basic idea
 ------------------
@@ -25,7 +25,7 @@ It's optimal if some FreeBSD commiters can be involved in the Camp, so they can 
 
 #### Local poudriere
 
-For practice purpose it will be convenient to prepare a computer in advance, installed with a functional and recent FreeBSD, with poudriere already installed and configured, and images already downloaded.
+For practice purpose it will be convenient to prepare a computer in advance, installed with a functional and recent FreeBSD, with [poudriere][poudriere] already installed and configured, and images already downloaded.
 
 Optimally the participants should be able to ssh to the Test Server (running poudriere) and either test their builds locally if they are very simple, or launch the tests in poudriere.
 
@@ -45,7 +45,7 @@ The user accounts also can be created on the fly without much trouble at the beg
 
 There should be at the beginning some introduction talk about what are ports and how to prepare them, how to make a shar and how to submit them, then how to update a port with a diff file. Then a list of possible candidates for porting could be presented to the audience, sorted by categories and difficulties level. This introduction is at the discretion of the presenter.
 
-It can be good to have also quick presentation of bugzilla, freshports, portscout, phabicator, the ports handbook, and other useful material.
+It can be good to have also quick presentation of [bugzilla][bugzilla], [freshports][freshports], [portscout][portscout], [phabicator][phabricator], the [porter's handbook][porterhandbook], and other useful material.
 
 Then everybody can try to create or update ports of their choice, all together in a close proximity with other people following the same path and not far from people that know the path very well.
 
@@ -66,3 +66,15 @@ We are in progress of setting up the first sessions:
 - translate this page in traditional chinese
 - setup a date at the Taipei Hackerspace https://taipeihack.org/
 - spread the word and find free software publishers that would be interested to participate and learn
+- think about ideas to help finishing the translation of the [Porter's handbook in chinese][porterhandbooktw]
+- prepare irc channel #portscamp-tw on efnet? get a bot for factoids?
+- setup a way for people to register to the first Portscamp (by mail? on a form? on facebook event? on meetup.com? on kktix?)
+
+
+[freebsd]: https://www.freebsd.org/
+[freshports]: http://www.freshports.org/
+[portscout]: http://www.freshports.org/
+[bugzilla]: https://bugs.freebsd.org/bugzilla/
+[poudriere]: https://www.freebsd.org/doc/handbook/ports-poudriere.html
+[porterhandbook]: https://www.freebsd.org/doc/en/books/porters-handbook/
+[porterhandbooktw]: https://www.freebsd.org/doc/zh_TW/books/porters-handbook/
