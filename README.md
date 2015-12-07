@@ -75,6 +75,7 @@ We are in progress of setting up the first sessions:
 [freshports]: http://www.freshports.org/
 [portscout]: http://www.freshports.org/
 [bugzilla]: https://bugs.freebsd.org/bugzilla/
+[phabricator]: https://reviews.freebsd.org/
 [poudriere]: https://www.freebsd.org/doc/handbook/ports-poudriere.html
 [porterhandbook]: https://www.freebsd.org/doc/en/books/porters-handbook/
 [porterhandbooktw]: https://www.freebsd.org/doc/zh_TW/books/porters-handbook/
