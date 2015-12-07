@@ -31,6 +31,10 @@ Optimally the participants should be able to ssh to the Test Server (running pou
 
 The point is that the participants don't need to install anything, they will have access to a FreeBSD environment using ssh on the local network.
 
+#### Local communication channel
+
+This can be an irc channel created on the spot, or whatever other group instant messenging the organizers feel comfortable with. The point is to have a place where people can share urls easily.
+
 #### User accounts
 
 The local FreeBSD server should be all prepared including the user accounts of the participants. To do so, probably it can be convenient to use github for registering participants, and grab ssh public keys from there, but any other method can be setup by the organizers.
@@ -41,6 +45,8 @@ The user accounts also can be created on the fly without much trouble at the beg
 
 There should be at the beginning some introduction talk about what are ports and how to prepare them, how to make a shar and how to submit them, then how to update a port with a diff file. Then a list of possible candidates for porting could be presented to the audience, sorted by categories and difficulties level. This introduction is at the discretion of the presenter.
 
+It can be good to have also quick presentation of bugzilla, freshports, portscout, phabicator, the ports handbook, and other useful material.
+
 Then everybody can try to create or update ports of their choice, all together in a close proximity with other people following the same path and not far from people that know the path very well.
 
 When a port is ready, tested and uploaded, a commiter can then show how the submission process is followed up and what leads to the port being committed in the ports tree.
@@ -50,3 +56,13 @@ Conclusion
 
 A portscamp should be a great occasion to have great fun, learning useful stuff and meeting other people from various horizons.
 
+
+Taiwan Local PortsCamps
+=============================
+
+We are in progress of setting up the first sessions:
+
+- find commiters interested to participate (we already have araujo@)
+- translate this page in traditional chinese
+- setup a date at the Taipei Hackerspace https://taipeihack.org/
+- spread the word and find free software publishers that would be interested to participate and learn
