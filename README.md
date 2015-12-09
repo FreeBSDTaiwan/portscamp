@@ -2,7 +2,7 @@
 PortsCamp
 ==============
 
-This is a community event where [FreeBSD][freebsd] commiters help people to understand what are ports and how to package new software to submit it as a new port.
+This is a community event where [FreeBSD][freebsd] committers help people to understand what are ports and how to package new software to submit it as a new port.
 
 The Basic idea
 ------------------
@@ -17,23 +17,23 @@ The event can be prepared to last from a couple hours to a whole day. It's all a
 
 #### Location
 
-Best is to find a venue with good internet connectivity and a local network where we can put a test server. You need chairs and table, because people typically bring their own laptops.
+Best is to find a venue with good Internet connectivity and a local network where we can put a test server. You need chairs and table, because people typically bring their own laptops.
 
 #### Organizers
 
-It's optimal if some FreeBSD commiters can be involved in the Camp, so they can explain the process of submission, detail the reviewing, show how they test, up to the point they commit your submission into the ports tree.
+It's optimal if some FreeBSD committers can be involved in the Camp, so they can explain the process of submission, detail the reviewing, show how they test, up to the point they commit your submission into the ports tree.
 
 #### Local poudriere
 
-For practice purpose it will be convenient to prepare a computer in advance, installed with a functional and recent FreeBSD, with [poudriere][poudriere] already installed and configured, and images already downloaded.
+For practice purpose it will be convenient to prepare a computer in advance, installed with a functional and recent FreeBSD, with [Poudriere][poudriere] already installed and configured, and images already downloaded.
 
-Optimally the participants should be able to ssh to the Test Server (running poudriere) and either test their builds locally if they are very simple, or launch the tests in poudriere.
+Optimally the participants should be able to ssh to the Test Server (running Poudriere) and either test their builds locally if they are very simple, or launch the tests in Poudriere.
 
 The point is that the participants don't need to install anything, they will have access to a FreeBSD environment using ssh on the local network.
 
 #### Local communication channel
 
-This can be an irc channel created on the spot, or whatever other group instant messenging the organizers feel comfortable with. The point is to have a place where people can share urls easily.
+This can be an IRC channel created on the spot, or whatever other group instant messaging the organizers feel comfortable with. The point is to have a place where people can share URLs easily.
 
 #### User accounts
 
@@ -49,7 +49,7 @@ It can be good to have also quick presentation of [bugzilla][bugzilla], [freshpo
 
 Then everybody can try to create or update ports of their choice, all together in a close proximity with other people following the same path and not far from people that know the path very well.
 
-When a port is ready, tested and uploaded, a commiter can then show how the submission process is followed up and what leads to the port being committed in the ports tree.
+When a port is ready, tested and uploaded, a committer can then show how the submission process is followed up and what leads to the port being committed in the ports tree.
 
 Conclusion
 -------------
@@ -62,12 +62,12 @@ Taiwan Local PortsCamps
 
 We are in progress of setting up the first sessions:
 
-- find commiters interested to participate (we already have araujo@)
-- translate this page in traditional chinese
+- find committers interested to participate (we already have araujo@)
+- translate this page in traditional Chinese
 - setup a date at the Taipei Hackerspace https://taipeihack.org/
 - spread the word and find free software publishers that would be interested to participate and learn
 - think about ideas to help finishing the translation of the [Porter's handbook in chinese][porterhandbooktw]
-- prepare irc channel #portscamp-tw on efnet? get a bot for factoids?
+- prepare IRC channel #portscamp-tw on efnet? get a bot for factoids?
 - setup a way for people to register to the first Portscamp (by mail? on a form? on facebook event? on meetup.com? on kktix?)
 
 
