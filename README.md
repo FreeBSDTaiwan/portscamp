@@ -4,13 +4,13 @@ PortsCamp
 
 This is a community event where [FreeBSD][freebsd] committers help people to understand what are ports and how to package new software to submit it as a new port.
 
-這是[FreeBSD][freebsd] committers協助大家了解甚麼是ports和如何打包軟體並發佈為新的port的一個社群活動。
+這是 [FreeBSD][freebsd] committers 協助大家了解甚麼是 ports 和如何打包軟體並發佈為新的 port 的一個社群活動。
 
 The Basic idea 基本想法
 ------------------
 The Ports System used in FreeBSD is dead simple. It should be easy for any open source software publisher to submit their code to FreeBSD. But they just don't know how simple it is, so we are gonna show 'em.
 
-FreeBSD用的Ports系統超簡單的。任何開源軟體的作者都可以輕易地發佈他們的程式碼到FreeBSD。但是他們不知道這有多簡單，所以讓我們來告訴大家。
+FreeBSD 用的 Ports 系統超簡單的。任何開源軟體的作者都可以輕易地發佈他們的程式碼到 FreeBSD 。但是他們不知道這有多簡單，所以讓我們來告訴大家。
 
 The Camp
 -------------------
@@ -31,7 +31,7 @@ Best is to find a venue with good Internet connectivity and a local network wher
 
 It's optimal if some FreeBSD committers can be involved in the Camp, so they can explain the process of submission, detail the reviewing, show how they test, up to the point they commit your submission into the ports tree.
 
-#### Local poudriere 區域的Poudriere
+#### Local poudriere 區域的 Poudriere
 
 For practice purpose it will be convenient to prepare a computer in advance, installed with a functional and recent FreeBSD, with [Poudriere][poudriere] already installed and configured, and images already downloaded.
 
@@ -42,6 +42,8 @@ The point is that the participants don't need to install anything, they will hav
 #### Local communication channel 區域通訊頻道
 
 This can be an IRC channel created on the spot, or whatever other group instant messaging the organizers feel comfortable with. The point is to have a place where people can share URLs easily.
+
+這可以是現場設立的 IRC 頻道，或是其他舉辦者熟悉的群組即時通訊軟體。這通訊頻道是讓參加者可以簡單地分享 URLs 。
 
 #### User accounts 使用者帳號
 
