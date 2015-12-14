@@ -3,10 +3,12 @@ PortsCamp
 ==============
 
 This is a community event where [FreeBSD][freebsd] committers help people to understand what are ports and how to package new software to submit it as a new port.
+這是[FreeBSD][freebsd] committers協助大家了解甚麼是ports和如何打包軟體並發佈為新的port的一個社群活動。
 
-The Basic idea
+The Basic idea 基本想法
 ------------------
 The Ports System used in FreeBSD is dead simple. It should be easy for any open source software publisher to submit their code to FreeBSD. But they just don't know how simple it is, so we are gonna show 'em.
+FreeBSD用的Ports系統超簡單的。任何開源軟體的作者都可以輕易地發佈他們的程式碼到FreeBSD。但是他們不知道這有多簡單，所以讓我們來告訴大家。
 
 The Camp
 -------------------
