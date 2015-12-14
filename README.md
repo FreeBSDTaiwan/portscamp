@@ -51,7 +51,11 @@ The local FreeBSD server should be all prepared including the user accounts of t
 
 The user accounts also can be created on the fly without much trouble at the beginning of each camp.
 
-#### Schedule
+本地端的 FreeBSD 伺服器 應該準備好所有參加者的使用者帳號。要這樣做，或許可以用參加者的 github 帳號並從那裡取得 ssh 公開金鑰。或是舉辦者有其他設定方法也可以。
+
+使用者帳號也可以在活動剛開始的時候建立，也不會造成太多麻煩。
+
+#### Schedule 活動流程
 
 There should be at the beginning some introduction talk about what are ports and how to prepare them, how to make a shar and how to submit them, then how to update a port with a diff file. Then a list of possible candidates for porting could be presented to the audience, sorted by categories and difficulties level. This introduction is at the discretion of the presenter.
 
@@ -61,6 +65,12 @@ Then everybody can try to create or update ports of their choice, all together i
 
 When a port is ready, tested and uploaded, a committer can then show how the submission process is followed up and what leads to the port being committed in the ports tree.
 
+一開始應該先介紹一下什麼是 ports，如何準備，如何分享和發佈，接下來是如何使用 diff 檔來更新一個 port。然後列出一個可以 porting 的清單給聽眾，根據不同的分類和難易程度來排序。這說明的部份由講者自行斟酌。
+
+如果也能快速地介紹一下 [bugzilla][bugzilla], [freshports][freshports], [portscout][portscout], [phabricator][phabricator], the [porter's handbook][porterhandbook], 和其他相關資料的話，就更好了。
+
+然後每個人都試著建立或是更新他們選擇的 ports，committer可以示範如何追蹤提交過程，以及怎樣將 port 提交到 ports 樹。
+
 Conclusion 結論
 -------------
 
@@ -68,7 +78,7 @@ A portscamp should be a great occasion to have great fun, learning useful stuff 
 
 Portscamp是一個很棒的活動，很有趣，可以學習有用的東西，還可以認識許多不同領域的人。
 
-Taiwan Local PortsCamps
+Taiwan Local PortsCamps 台灣本土 Portscamp
 =============================
 
 We are in progress of setting up the first sessions:
@@ -81,6 +91,14 @@ We are in progress of setting up the first sessions:
 - prepare IRC channel #portscamp-tw on efnet? get a bot for factoids?
 - setup a way for people to register to the first Portscamp (by mail? on a form? on facebook event? on meetup.com? on kktix?)
 
+我們正在規劃第一次會議：
+- 尋找有興趣參與的 committers (我們現在已經有 araujo@ )
+- 將這個網頁翻譯成正體中文
+- 預訂一個 Taipei Hackerspace的時間 https://taipeihack.org/
+- 宣傳並尋找有興趣參加和學習的自由軟體作者
+- 思考如何幫忙翻譯 the [Porter's handbook in chinese][porterhandbooktw]
+- 在 Efnet 準備 IRC 頻道 #portscamp-tw ? get a bot for factoids?
+- 建立一個註冊第一次 Portscamp 的方法 (用 email? 用表單？用 facebook 建立活動？用 meetup.com？用 kktix? )
 
 [freebsd]: https://www.freebsd.org/
 [freshports]: http://www.freshports.org/
