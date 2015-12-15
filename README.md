@@ -19,7 +19,7 @@ The Camp
 
 The event can be prepared to last from a couple hours to a whole day. It's all a question of participants and organizers convenience. But less than one hour could be too short.
 
-這個活動的時間可以安排為幾個小時到一整天。由活動參加者和舉辦者而定。但是活動時間不適合少於一個小時。
+這個活動的時間可以安排為幾個小時到一整天。由活動參加者和主辦者而定。但是活動時間不適合少於一個小時。
 
 #### Location 地點
 
@@ -27,9 +27,11 @@ Best is to find a venue with good Internet connectivity and a local network wher
 
 最好可以找到一個地點，有良好的網路連線和區域網路的架設，這樣我們可以設置一台測試伺服器。還需要桌椅，讓大家可以使用自己的筆記型電腦。
 
-#### Organizers 舉辦者
+#### Organizers 主辦者
 
 It's optimal if some FreeBSD committers can be involved in the Camp, so they can explain the process of submission, detail the reviewing, show how they test, up to the point they commit your submission into the ports tree.
+
+最理想的是有一些 FreeBSD committers 可以參與，這樣他們可以解釋發佈的步驟，詳述審核過程，並示範他們如何測試，一直到將你的成果提交到 ports 樹。
 
 #### Local poudriere 區域的 Poudriere
 
@@ -39,11 +41,17 @@ Optimally the participants should be able to ssh to the Test Server (running Pou
 
 The point is that the participants don't need to install anything, they will have access to a FreeBSD environment using ssh on the local network.
 
+為了要能練習，比較方便的是有一台先準備好的電腦，安裝最新的，已經裝好和設定好 [Poudriere][poudriere]  的FreeBSD 。
+
+最好參加者能夠 ssh 到測試伺服器 (執行 Poudriere )，或是如果他們的建構 ( build )很簡單的話，就直接在本地端測試，或是在  Poudriere 執行測試。
+
+重點是參加者不需要安裝任何東西，他們可以透過區域網路用 ssh 連線進 FreeBSD 的環境。
+
 #### Local communication channel 區域通訊頻道
 
 This can be an IRC channel created on the spot, or whatever other group instant messaging the organizers feel comfortable with. The point is to have a place where people can share URLs easily.
 
-這可以是現場設立的 IRC 頻道，或是其他舉辦者熟悉的群組即時通訊軟體。這通訊頻道是讓參加者可以簡單地分享 URLs 。
+這可以是現場設立的 IRC 頻道，或是其他主辦者熟悉的群組即時通訊軟體。這通訊頻道是讓參加者可以簡單地分享 URLs 。
 
 #### User accounts 使用者帳號
 
@@ -51,7 +59,7 @@ The local FreeBSD server should be all prepared including the user accounts of t
 
 The user accounts also can be created on the fly without much trouble at the beginning of each camp.
 
-本地端的 FreeBSD 伺服器 應該準備好所有參加者的使用者帳號。要這樣做，或許可以用參加者的 github 帳號並從那裡取得 ssh 公開金鑰。或是舉辦者有其他設定方法也可以。
+本地端的 FreeBSD 伺服器 應該準備好所有參加者的使用者帳號。要這樣做，或許可以用參加者的 github 帳號並從那裡取得 ssh 公開金鑰。或是主辦者有其他設定方法也可以。
 
 使用者帳號也可以在活動剛開始的時候建立，也不會造成太多麻煩。
 
@@ -103,7 +111,7 @@ We are in progress of setting up the first sessions:
 - 預訂一個 Taipei Hackerspace的時間 https://taipeihack.org/
 - 宣傳並尋找有興趣參加和學習的自由軟體作者
 - 思考如何幫忙翻譯 the [Porter's handbook in chinese][porterhandbooktw]
-- 在 Efnet 準備 IRC 頻道 #portscamp-tw ? get a bot for factoids?
+- 在 Efnet 準備 IRC 頻道 #portscamp-tw ? 要用 IRC 機器人來紀錄嗎?
 - 建立一個註冊第一次 Portscamp 的方法 (用 email? 用表單？用 facebook 建立活動？用 meetup.com？用 kktix? )
 
 [freebsd]: https://www.freebsd.org/
