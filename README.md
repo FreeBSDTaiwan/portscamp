@@ -73,7 +73,7 @@ Then everybody can try to create or update ports of their choice, all together i
 
 When a port is ready, tested and uploaded, a committer can then show how the submission process is followed up and what leads to the port being committed in the ports tree.
 
-一開始應該先介紹一下什麼是 ports，如何準備，如何分享和發佈，接下來是如何使用 diff 檔來更新一個 port。然後列出一個可以 porting 的清單給聽眾，根據不同的分類和難易程度來排序。這說明的部份由講者自行斟酌。
+一開始應該先介紹一下什麼是 ports，如何準備，如何打包和發佈，接下來是如何使用 diff 檔來更新一個 port。然後列出一個可以 porting 的清單給聽眾，根據不同的分類和難易程度來排序。這說明的部份由講者自行斟酌。
 
 如果也能快速地介紹一下 [bugzilla][bugzilla], [freshports][freshports], [portscout][portscout], [phabricator][phabricator], the [porter's handbook][porterhandbook], 和其他相關資料的話，就更好了。
 
