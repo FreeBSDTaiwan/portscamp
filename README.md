@@ -71,6 +71,12 @@ When a port is ready, tested and uploaded, a committer can then show how the sub
 
 然後每個人都試著建立或是更新他們選擇的 ports，committer可以示範如何追蹤提交過程，以及怎樣將 port 提交到 ports 樹。
 
+#### Fee 費用
+
+Free of charge as FreeBSD !
+
+如 FreeBSD 一樣，免費!
+
 Conclusion 結論
 -------------
 
