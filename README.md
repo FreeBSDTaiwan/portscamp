@@ -66,7 +66,6 @@ Taiwan Local PortsCamps
 We are in progress of setting up the first sessions:
 
 - find committers interested to participate (we already have araujo@)
-- translate this page in traditional Chinese
 - setup a date at the Taipei Hackerspace https://taipeihack.org/
 - spread the word and find free software publishers that would be interested to participate and learn
 - think about ideas to help finishing the translation of the [Porter's handbook in chinese][porterhandbooktw]
