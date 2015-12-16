@@ -62,7 +62,6 @@ Portscamp將是一個很棒的活動，很有趣，可以學習有用的東西�
 
 我們正在規劃第一次會議：
 - 尋找有興趣參與的 committers (我們現在已經有 araujo@ )
-- 將這個網頁翻譯成正體中文
 - 預訂一個 Taipei Hackerspace的時間 https://taipeihack.org/
 - 宣傳並尋找有興趣參加和學習的自由軟體作者
 - 思考如何幫忙翻譯 the [Porter's handbook in chinese][porterhandbooktw]
