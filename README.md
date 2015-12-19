@@ -66,7 +66,7 @@ Taiwan Local PortsCamps
 We are in progress of setting up the first sessions:
 
 - find committers interested to participate (we already have araujo@, lwhsu@, sunpoeat@, kevlo@ at least)
-- setup a date at the Taipei Hackerspace https://taipeihack.org/ (done: we will have janueary 15th evening)
+- setup a date at the Taipei Hackerspace https://taipeihack.org/ (done: we will have january 15th evening)
 - spread the word and find free software publishers that would be interested to participate and learn
 - think about ideas to help finishing the translation of the [Porter's handbook in chinese][porterhandbooktw]
 - prepare IRC channel #portscamp-tw on efnet? get a bot for factoids?
