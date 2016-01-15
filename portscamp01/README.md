@@ -3,9 +3,7 @@ List of Ports and Bugs.
 =======================
 
 Please take a look at:
-[Open bugs on bugzilla][bugzilla]
-[Ports to be adopted][portcout]
-
+[Open bugs on bugzilla][bugzilla] and also check those [ports that can be adopted][portscout]
 
 
 [portscout]: http://portscout.freebsd.org/ports@freebsd.org.html 
