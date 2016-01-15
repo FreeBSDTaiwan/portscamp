@@ -3,8 +3,8 @@ List of Ports and Bugs.
 =======================
 
 Please take a look at:
-[bugzilla]
-[portcout]
+[Open bugs on bugzilla][bugzilla]
+[Ports to be adopted][portcout]
 
 
 
