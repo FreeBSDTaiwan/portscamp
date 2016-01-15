@@ -80,3 +80,14 @@ We are in progress of setting up the first sessions:
 [poudriere]: https://www.freebsd.org/doc/handbook/ports-poudriere.html
 [porterhandbook]: https://www.freebsd.org/doc/en/books/porters-handbook/
 [porterhandbooktw]: https://www.freebsd.org/doc/zh_TW/books/porters-handbook/
+
+
+Related links
+=============================
+- PortsCamp TW #001 
+  - http://freebsd.kktix.cc/events/portscamp001
+  - https://www.facebook.com/events/560954110736250/
+  - https://plus.google.com/u/0/events/cm28uvjh8g9gqs74nq188ogt354
+  - http://miwi.cc/2016/01/taiwan-portscamp/
+- FreeBSD ports system slideshare from NCTU
+  - http://www.slideshare.net/wdv4758h/freebsd-ports
