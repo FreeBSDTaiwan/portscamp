@@ -45,7 +45,7 @@ The Camp
 
 請參加者試著建立或是更新他們選擇的 ports，Committer可以示範如何追蹤提交過程，以及怎樣將 port 提交到 ports 樹。
 
-如果也能快速地介紹一下 [bugzilla][bugzilla], [freshports][freshports], [portscout][portscout], [phabricator][phabricator], the [porter's handbook][porterhandbook], 和其他相關資料的話，就更好了。
+如果也能快速地介紹一下 [bugzilla][bugzilla], [freshports][freshports], [portscout][portscout], [phabricator][phabricator], 那個 [porter's handbook][porterhandbook], 和其他相關資料的話，就更好了。
 
 #### 費用
 如 FreeBSD 一樣，免費!
